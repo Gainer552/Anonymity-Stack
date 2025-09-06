@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the folder containing your WireGuard config files.
-VPN_CONFIG_DIR="Anonymity-Stack"
+VPN_CONFIG_DIR="Anonymity-Stack-main"
 
 # Define the interval to rotate VPNs (in seconds), adjust as necessary.
 ROTATE_INTERVAL=180
