@@ -38,6 +38,8 @@ Requirements
 1. Linux operating system.
 2. WireGuard installed and configured.
 3. A directory containing valid WireGuard configuration files (.conf).
+4. wireguard-tools
+5. NetworkManager
 
 Installation
 1. Save the program to a file (e.g., rvpn.sh).
